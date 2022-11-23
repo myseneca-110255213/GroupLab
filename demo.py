@@ -64,6 +64,7 @@ def rockpaperscissor():
             print("Match Ties")
             print("Thanks for playing the game")
     
+<<<<<<< HEAD
 
 
 
@@ -74,3 +75,48 @@ except ValueError:
     print("Wrong Choice")	
 
 rockpaperscissor()
+=======
+    
+
+
+
+
+
+
+name = input("Enter your name: ")
+
+# The GAME LOOP
+while True:
+
+    # The Game Menu
+    print("***********")
+    print("Enter 1 to play Rock-Paper-Scissors")
+    print("Enter 2 to quit")
+    print("Enter 3 to read instructions")
+    print("***********")
+
+    # Try block to handle the player choice 
+    try:
+        choice = int(input("Enter your choice = "))
+    except ValueError:
+        clear()
+        print("Wrong Choice")	
+        continue
+
+    # Play the traditional version of the game
+    if choice == 1:
+        clear()
+        rockpaperscissor()
+
+    # Quit the GAME LOOP 	
+    elif choice == 2:
+        break
+
+    elif choice == 3:
+        clear()
+        rockpaperscissor_instructions()
+    # Other wrong input
+    else:
+        clear()
+        print("Wrong choice. Read instructions carefully.")
+>>>>>>> iteration2
