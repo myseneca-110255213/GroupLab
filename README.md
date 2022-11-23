@@ -1,13 +1,14 @@
 # Group 5 - Group Lab
 
 ## Table of Contents
+
 1. [**How the Game Works**](#game)
 
    * [**Functions**](#func)
    * [**Mechanics**](#mech)
    * [**Game Loop**](#loop)
 
-2. [**Group Member Roles**](group)
+2. [**Group Member Roles**](#group)
     
     * [**Gitesh**](#G)
     * [**Simran**](#S)
@@ -16,6 +17,7 @@
 ## How the Game Works <a name="game"> </a>
 
 ### Functions <a name="func"> </a>
+
 **clear():**
 
     Runs a system command to clear the terminal.
@@ -25,6 +27,7 @@
     Defines the rules for Rock, Paper, Scissors through a series of print statements.
 
 ### Mechanics <a name="mech"> </a>
+
 *A special function will contain the majority of the games mechanics.*
 
 **rockpaperscissor():**
@@ -55,6 +58,16 @@
 
 ### Gitesh <a name="G"> </a>
 
+* Write up documentation and diagrams,
+* Create and edit game script,
+* Set up group chat and coordinate group.
+
 ### Simran <a name="S"> </a>
 
+* Write up documentation and diagrams,
+* Create and edit game script.
+
 ### Michael <a name="M"> </a>
+
+* Create github repository and README.md
+* Edit game script.
