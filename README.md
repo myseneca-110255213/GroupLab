@@ -18,20 +18,38 @@
 ### Functions <a name="func"> </a>
 **clear():**
 
-    placeholder text
+    Runs a system command to clear the terminal.
 
 **rockpaperscissor_instructions():**
 
-    placeholder text
+    Defines the rules for Rock, Paper, Scissors through a series of print statements.
 
 ### Mechanics <a name="mech"> </a>
 *A special function will contain the majority of the games mechanics.*
 
 **rockpaperscissor():**
 
-    placeholder text    
+    - First, define a list containing the titular "Rock, Paper, and Scissors."
+    - Second create a user defined variable and check that variable to ensure it contains only an item matching the above list.
+    - Using nested if statements, compare the user defined variable against the computer generated one:
+    - Print out an appropriate statement for whether the user wins, the computer wins, or there is a draw.
 
 ### Game Loop <a name="loop"> </a>
+
+**While True:**
+
+    - print out a menu showing the player 3 options:
+      - 1 to play,
+      - 2 to quit,
+      - 3 to view the instructions.
+    - Use a try/except statement to ensure the player chooses a viable option.
+    - If the player chooses 1:
+      - Call clear() and rockpaperscissor().
+    - If the player chooses 2:
+      - End the loop.
+    - If the player chooses 3:
+      - Call clear() and rockpaperscissor_instructions().
+    - Finally if the user inputs an invalid choice, return an error.
 
 ## <p style="text-align: center;"> Group Member Roles </p> <a name="group"> </a>
 
