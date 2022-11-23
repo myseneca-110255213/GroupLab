@@ -66,16 +66,17 @@ Group Member Roles <a name="group"> </a>
 
 ### Gitesh <a name="G"> </a>
 
-* Write up documentation and diagrams,
-* Create and edit game script,
+* Management,
+* Create diagrams, documents,
 * Set up group chat and coordinate group.
 
 ### Simran <a name="S"> </a>
 
-* Write up documentation and diagrams,
+* Development,
 * Create and edit game script.
 
 ### Michael <a name="M"> </a>
 
+* Github admin, QA
 * Create github repository and README.md
-* Edit game script.
+* QA testing for game script.
