@@ -1,6 +1,10 @@
-# Group 5 - Group Lab
+<h1 style="text-align: center;">
+Group 5 - Group Lab
+</h1>
 
-## Table of Contents
+<h2 style="text-align: center;">
+Table of Contents
+</h2>
 
 1. [**How the Game Works**](#game)
 
@@ -14,7 +18,9 @@
     * [**Simran**](#S)
     * [**Michael**](#M)
 
-## How the Game Works <a name="game"> </a>
+<h2 style="text-align: center;"> 
+How the Game Works 
+</h2> <a name="game"> </a>
 
 ### Functions <a name="func"> </a>
 
@@ -54,7 +60,9 @@
       - Call clear() and rockpaperscissor_instructions().
     - Finally if the user inputs an invalid choice, return an error.
 
-## Group Member Roles <a name="group"> </a>
+<h2 style="text-align: center;">
+Group Member Roles <a name="group"> </a>
+</h2>
 
 ### Gitesh <a name="G"> </a>
 
