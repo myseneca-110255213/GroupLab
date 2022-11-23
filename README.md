@@ -1,8 +1,8 @@
 # Group 5 - Group Lab
 
-## <p style="text-align: center;">Table of Contents</p>
+## Table of Contents
 1. [**How the Game Works**](#game)
-   
+
    * [**Functions**](#func)
    * [**Mechanics**](#mech)
    * [**Game Loop**](#loop)
@@ -13,7 +13,7 @@
     * [**Simran**](#S)
     * [**Michael**](#M)
 
-## <p style="text-align: center;"> How the Game Works </p> <a name="game"> </a>
+## How the Game Works <a name="game"> </a>
 
 ### Functions <a name="func"> </a>
 **clear():**
@@ -51,7 +51,7 @@
       - Call clear() and rockpaperscissor_instructions().
     - Finally if the user inputs an invalid choice, return an error.
 
-## <p style="text-align: center;"> Group Member Roles </p> <a name="group"> </a>
+## Group Member Roles <a name="group"> </a>
 
 ### Gitesh <a name="G"> </a>
 
