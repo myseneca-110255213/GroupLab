@@ -64,18 +64,6 @@ def rockpaperscissor():
             print("Match Ties")
             print("Thanks for playing the game")
     
-<<<<<<< HEAD
-
-
-
-name = input("Enter your name: ") 
-try:
-    choice = int(input("Enter your choice = "))
-except ValueError:
-    print("Wrong Choice")	
-
-rockpaperscissor()
-=======
     
 
 
@@ -119,4 +107,3 @@ while True:
     else:
         clear()
         print("Wrong choice. Read instructions carefully.")
->>>>>>> iteration2
